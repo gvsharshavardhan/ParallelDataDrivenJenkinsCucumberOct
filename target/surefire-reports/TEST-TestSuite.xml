@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="1.04" tests="11" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="1.034" tests="11" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.9+7-LTS"/>
@@ -62,15 +62,15 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="eTest003" classname="tests.GoogleTests" time="1.019"/>
+  <testcase name="eTest003" classname="tests.GoogleTests" time="1.023"/>
+  <testcase name="login" classname="tests.GoogleTests" time="0.001"/>
+  <testcase name="login" classname="tests.GoogleTests" time="0.001"/>
   <testcase name="login" classname="tests.GoogleTests" time="0.002"/>
-  <testcase name="login" classname="tests.GoogleTests" time="0.002"/>
-  <testcase name="login" classname="tests.GoogleTests" time="0.002"/>
-  <testcase name="testAssertions" classname="tests.GoogleTests" time="0.014"/>
+  <testcase name="testAssertions" classname="tests.GoogleTests" time="0.008"/>
   <testcase name="cTest002" classname="tests.GoogleTests" time="0"/>
-  <testcase name="aTest001" classname="tests.GoogleTests" time="0.001"/>
   <testcase name="aTest001" classname="tests.GoogleTests" time="0"/>
   <testcase name="aTest001" classname="tests.GoogleTests" time="0"/>
-  <testcase name="dTest004" classname="tests.GoogleTests" time="0"/>
-  <testcase name="bTest005" classname="tests.GoogleTests" time="0.004"/>
+  <testcase name="aTest001" classname="tests.GoogleTests" time="0"/>
+  <testcase name="dTest004" classname="tests.GoogleTests" time="0.001"/>
+  <testcase name="bTest005" classname="tests.GoogleTests" time="0.001"/>
 </testsuite>
