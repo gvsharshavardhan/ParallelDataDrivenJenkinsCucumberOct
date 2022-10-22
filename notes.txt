@@ -8,6 +8,9 @@ im modifing in remote file
 im in my local
 added some lines as per local changes
 
-zeenath lin1
-zeenath lin2
-zeenath lin3
+zeenat line1
+zeenat line2
+zeenat line3
+harsha code101
+harsha code102
+harsha code103
