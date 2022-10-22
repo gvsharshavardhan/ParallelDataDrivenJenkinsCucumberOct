@@ -1,0 +1,5 @@
+tests\BaseTest.class
+tests\OrangeTest.class
+tests\DataSupplier.class
+tests\GoogleTests.class
+tests\AppleTest.class

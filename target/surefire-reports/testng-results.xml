@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-22T12:37:16 GMT-04:00" name="All Test Suite" finished-at="2022-10-22T12:37:17 GMT-04:00" duration-ms="1206">
+    <groups>
+    </groups>
+    <test started-at="2022-10-22T12:37:16 GMT-04:00" name="tests1" finished-at="2022-10-22T12:37:17 GMT-04:00" duration-ms="1206">
+      <class name="tests.GoogleTests">
+        <test-method signature="eTest003()[pri:0, instance:tests.GoogleTests@40cb8df7]" started-at="2022-10-22T12:37:16 GMT-04:00" name="eTest003" finished-at="2022-10-22T12:37:17 GMT-04:00" duration-ms="1018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eTest003 -->
+        <test-method signature="login([Ljava.lang.Object;)[pri:0, instance:tests.GoogleTests@40cb8df7]" started-at="2022-10-22T12:37:17 GMT-04:00" name="login" data-provider="dataPump" finished-at="2022-10-22T12:37:17 GMT-04:00" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4d80c97c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login([Ljava.lang.Object;)[pri:0, instance:tests.GoogleTests@40cb8df7]" started-at="2022-10-22T12:37:17 GMT-04:00" name="login" data-provider="dataPump" finished-at="2022-10-22T12:37:17 GMT-04:00" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@57da61f6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login([Ljava.lang.Object;)[pri:0, instance:tests.GoogleTests@40cb8df7]" started-at="2022-10-22T12:37:17 GMT-04:00" name="login" data-provider="dataPump" finished-at="2022-10-22T12:37:17 GMT-04:00" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4cbb7643]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="testAssertions()[pri:0, instance:tests.GoogleTests@40cb8df7]" started-at="2022-10-22T12:37:17 GMT-04:00" name="testAssertions" finished-at="2022-10-22T12:37:17 GMT-04:00" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAssertions -->
+        <test-method signature="cTest002()[pri:3, instance:tests.GoogleTests@40cb8df7]" started-at="2022-10-22T12:37:17 GMT-04:00" name="cTest002" finished-at="2022-10-22T12:37:17 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cTest002 -->
+        <test-method signature="aTest001(java.lang.String,java.lang.String)[pri:4, instance:tests.GoogleTests@40cb8df7]" started-at="2022-10-22T12:37:17 GMT-04:00" name="aTest001" finished-at="2022-10-22T12:37:17 GMT-04:00" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest001 -->
+        <test-method signature="aTest001(java.lang.String,java.lang.String)[pri:4, instance:tests.GoogleTests@40cb8df7]" started-at="2022-10-22T12:37:17 GMT-04:00" name="aTest001" finished-at="2022-10-22T12:37:17 GMT-04:00" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest001 -->
+        <test-method signature="aTest001(java.lang.String,java.lang.String)[pri:4, instance:tests.GoogleTests@40cb8df7]" started-at="2022-10-22T12:37:17 GMT-04:00" name="aTest001" finished-at="2022-10-22T12:37:17 GMT-04:00" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest001 -->
+        <test-method signature="dTest004()[pri:45, instance:tests.GoogleTests@40cb8df7]" started-at="2022-10-22T12:37:17 GMT-04:00" name="dTest004" finished-at="2022-10-22T12:37:17 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dTest004 -->
+        <test-method signature="bTest005()[pri:-57, instance:tests.GoogleTests@40cb8df7]" started-at="2022-10-22T12:37:17 GMT-04:00" name="bTest005" finished-at="2022-10-22T12:37:17 GMT-04:00" depends-on-methods="tests.GoogleTests.dTest004" duration-ms="0" status="PASS">
+          <exception class="java.lang.ArithmeticException">
+            <message>
+              <![CDATA[/ by zero]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.ArithmeticException: / by zero
+at tests.GoogleTests.bTest005(GoogleTests.java:42)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:471)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+at java.base/java.lang.Thread.run(Thread.java:834)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.ArithmeticException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest005 -->
+      </class> <!-- tests.GoogleTests -->
+    </test> <!-- tests1 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
